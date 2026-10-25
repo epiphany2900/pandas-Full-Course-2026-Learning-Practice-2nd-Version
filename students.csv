@@ -1,0 +1,21 @@
+StudentID,Name,Age,Gender,City,Course,Marks,Passed,Attendance
+101,Ali Khan,22,Male,Mumbai,Python,88,Yes,95
+102,Sara Mehta,25,,Delhi,Data Science,92,Yes,98
+103,John D'souza,21,Male,Bangalore,Python,55,No,72
+104,Mia Sharma,28,Female,Mumbai,Machine Learning,76,Yes,85
+105,Rahul Verma,23,Male,Pune,Data Science,45,No,60
+106,Priya Nair,26,Female,Chennai,Python,91,Yes,99
+107,Tom Wilson,24,Male,Delhi,Machine Learning,67,Yes,78
+108,Neha Gupta,22,Female,Bangalore,Data Science,83,Yes,90
+109,Arjun Rao,27,Male,Hyderabad,Python,72,Yes,82
+110,Sneha Joshi,21,Female,Mumbai,Machine Learning,,No,55
+111,Karan Patel,29,Male,Pune,Data Science,95,Yes,97
+112,Divya Singh,24,Female,Chennai,Python,61,Yes,74
+113,Anil Kumar,23,Male,Delhi,Machine Learning,79,Yes,88
+114,Pooja Reddy,25,Female,Hyderabad,Data Science,50,No,65
+115,Raj Malhotra,30,Male,Mumbai,Python,84,Yes,93
+116,Anjali Iyer,22,Female,Bangalore,Machine Learning,70,Yes,80
+117,Suresh Tiwari,26,Male,Pune,Data Science,,Yes,77
+118,Kavya Menon,23,Female,Chennai,Python,88,Yes,91
+119,Vikram Bose,28,Male,Delhi,Machine Learning,63,Yes,70
+120,Ritika Shah,24,Female,Mumbai,Data Science,77,Yes,86
